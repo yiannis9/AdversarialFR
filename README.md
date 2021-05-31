@@ -7,7 +7,9 @@ Instead we will use Tensorflow 2.X.X and OpenCV among others to load a pretraine
 We will demonstrate some pre existing adversarial attacks on facial recognition systems as well as a new one.
 Attacks included are:
 > One pixel Attack
+> 
 > Deepfool
+> 
 > Noise Attack
 ## Evaluation
 **TBD**
