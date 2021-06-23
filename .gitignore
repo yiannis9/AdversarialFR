@@ -1,3 +1,5 @@
 venv/
 .vscode/
-VGGFace2_DeepFace_weights_val-0.9034.h5
+test2/
+ethics/
+model_ckp/
