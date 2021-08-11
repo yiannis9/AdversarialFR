@@ -1,5 +1,5 @@
 # AdversarialFR
-Msc Thesis on adversarial Attacks on Face Recognition systems using Deepfool variants.
+Msc Thesis - Adversarial Attacks on Face Recognition systems using Deepfool variants.
 
 ## Dataset
 The dataset used was a customised subset of the VGGFace2 dataset. The repository holds numpy-packaged sets of the dataset to save time.
