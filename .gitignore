@@ -4,7 +4,7 @@ test2/
 model_ckp/
 model_FT_ckp/
 model_bkp/
+eval_models/
 ethics/
 model_ckp/
-New Text Document.txt
-.ipynb_checkpoints/New Text Document-checkpoint.txt
+.ipynb_checkpoints/
