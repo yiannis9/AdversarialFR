@@ -13,7 +13,7 @@ We trained three models for this project using transfer learning with their arch
 > EfficientNet-B0
 
 ## Adversarial Attacks
-We will demonstrate the pre existing adversarial attacks on facial recognition systems as well as a new .
+We will demonstrate the original DeepFool attack on facial recognition systems as well as 2 new variants.
 Attacks included are:
 > Deepfool
 > 
