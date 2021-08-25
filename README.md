@@ -19,7 +19,7 @@ Attacks included are:
 > 
 > Spiked Deepfool
 > 
-> Quadruple Gradient Approximation
+> Quadruple Gradient Acceleration
 > 
 ## Evaluation
 Please refer to the main Thesis document for the evaluation.
